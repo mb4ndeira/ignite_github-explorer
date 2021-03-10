@@ -5,7 +5,7 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/github-explorer?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/github-explorer?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/Ignite_Github-explorer?color=%23007acc">
 
   <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/github-explorer?color=56BEB8">
 
